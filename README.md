@@ -3,7 +3,7 @@ Level creation through images by associating pixel colors with game objects; for
 
 ## Installation
 
-Install YoYo Game's GameMaker: Studio (1 or 2), place all files in a directory, and open ascii-to-level.project in the software.
+Install YoYo Game's GameMaker: Studio (1 or 2), place all files in a directory, and open image-to-level.project in the software.
 
 ## Authors
 
