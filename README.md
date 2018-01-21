@@ -1,4 +1,4 @@
-# gms-ascii-to-level
+# gms-image-to-level
 Level creation through images by associating pixel colors with game objects; for GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/image-to-level).
 
 ## Installation
